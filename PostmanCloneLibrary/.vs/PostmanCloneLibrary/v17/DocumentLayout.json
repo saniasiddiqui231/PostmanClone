@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{488CB1CA-097D-4208-A306-AFD562E96BE1}|PostmanCloneLibrary\\PostmanCloneLibrary.csproj|c:\\users\\sania\\source\\repos\\postmanclonelibrary\\postmanclonelibrary\\apiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488CB1CA-097D-4208-A306-AFD562E96BE1}|PostmanCloneLibrary\\PostmanCloneLibrary.csproj|solutionrelative:postmanclonelibrary\\apiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D9497B-9CC9-48C2-9BBD-76D054AF3BB0}|PostmanCloneUI\\PostmanCloneUI.csproj|c:\\users\\sania\\source\\repos\\postmanclonelibrary\\postmancloneui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D9497B-9CC9-48C2-9BBD-76D054AF3BB0}|PostmanCloneUI\\PostmanCloneUI.csproj|solutionrelative:postmancloneui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488CB1CA-097D-4208-A306-AFD562E96BE1}|PostmanCloneLibrary\\PostmanCloneLibrary.csproj|c:\\users\\sania\\source\\repos\\postmanclonelibrary\\postmanclonelibrary\\iapiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488CB1CA-097D-4208-A306-AFD562E96BE1}|PostmanCloneLibrary\\PostmanCloneLibrary.csproj|solutionrelative:postmanclonelibrary\\iapiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D9497B-9CC9-48C2-9BBD-76D054AF3BB0}|PostmanCloneUI\\PostmanCloneUI.csproj|C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\postmancloneui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7D9497B-9CC9-48C2-9BBD-76D054AF3BB0}|PostmanCloneUI\\PostmanCloneUI.csproj|solutionrelative:postmancloneui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488CB1CA-097D-4208-A306-AFD562E96BE1}|PostmanCloneLibrary\\PostmanCloneLibrary.csproj|c:\\users\\sania\\source\\repos\\postmanclonelibrary\\postmanclonelibrary\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488CB1CA-097D-4208-A306-AFD562E96BE1}|PostmanCloneLibrary\\PostmanCloneLibrary.csproj|solutionrelative:postmanclonelibrary\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D9497B-9CC9-48C2-9BBD-76D054AF3BB0}|PostmanCloneUI\\PostmanCloneUI.csproj|c:\\users\\sania\\source\\repos\\postmanclonelibrary\\postmancloneui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D9497B-9CC9-48C2-9BBD-76D054AF3BB0}|PostmanCloneUI\\PostmanCloneUI.csproj|solutionrelative:postmancloneui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "enums.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\PostmanCloneLibrary\\enums.cs",
+              "RelativeDocumentMoniker": "PostmanCloneLibrary\\enums.cs",
+              "ToolTip": "C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\PostmanCloneLibrary\\enums.cs",
+              "RelativeToolTip": "PostmanCloneLibrary\\enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:58:31.39Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\PostmanCloneUI\\Form1.cs",
+              "RelativeDocumentMoniker": "PostmanCloneUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\PostmanCloneUI\\Form1.cs [Design]",
+              "RelativeToolTip": "PostmanCloneUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:41:05.17Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "apiAccess.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\PostmanCloneLibrary\\apiAccess.cs",
+              "RelativeDocumentMoniker": "PostmanCloneLibrary\\apiAccess.cs",
+              "ToolTip": "C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\PostmanCloneLibrary\\apiAccess.cs",
+              "RelativeToolTip": "PostmanCloneLibrary\\apiAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:25:37.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IapiAccess.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\PostmanCloneLibrary\\IapiAccess.cs",
+              "RelativeDocumentMoniker": "PostmanCloneLibrary\\IapiAccess.cs",
+              "ToolTip": "C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\PostmanCloneLibrary\\IapiAccess.cs",
+              "RelativeToolTip": "PostmanCloneLibrary\\IapiAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:13:34.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\PostmanCloneUI\\Form1.cs",
+              "RelativeDocumentMoniker": "PostmanCloneUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\PostmanCloneUI\\Form1.cs",
+              "RelativeToolTip": "PostmanCloneUI\\Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:06:52.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\PostmanCloneUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PostmanCloneUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sania\\source\\repos\\PostmanCloneLibrary\\PostmanCloneUI\\Form1.Designer.cs",
+              "RelativeToolTip": "PostmanCloneUI\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:04:12.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

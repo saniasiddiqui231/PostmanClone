@@ -1,0 +1,11 @@
+C:\Users\sania\source\repos\PostmanCloneLibrary\PostmanCloneLibrary\bin\Debug\net8.0\PostmanCloneLibrary.deps.json
+C:\Users\sania\source\repos\PostmanCloneLibrary\PostmanCloneLibrary\bin\Debug\net8.0\PostmanCloneLibrary.dll
+C:\Users\sania\source\repos\PostmanCloneLibrary\PostmanCloneLibrary\bin\Debug\net8.0\PostmanCloneLibrary.pdb
+C:\Users\sania\source\repos\PostmanCloneLibrary\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sania\source\repos\PostmanCloneLibrary\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.AssemblyInfoInputs.cache
+C:\Users\sania\source\repos\PostmanCloneLibrary\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.AssemblyInfo.cs
+C:\Users\sania\source\repos\PostmanCloneLibrary\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sania\source\repos\PostmanCloneLibrary\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.dll
+C:\Users\sania\source\repos\PostmanCloneLibrary\PostmanCloneLibrary\obj\Debug\net8.0\refint\PostmanCloneLibrary.dll
+C:\Users\sania\source\repos\PostmanCloneLibrary\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.pdb
+C:\Users\sania\source\repos\PostmanCloneLibrary\PostmanCloneLibrary\obj\Debug\net8.0\ref\PostmanCloneLibrary.dll

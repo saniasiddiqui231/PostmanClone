@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PostmanCloneUI/1.0.0": {
+        "dependencies": {
+          "PostmanCloneLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PostmanCloneUI.dll": {}
+        }
+      },
+      "PostmanCloneLibrary/1.0.0": {
+        "runtime": {
+          "PostmanCloneLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PostmanCloneUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostmanCloneLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
