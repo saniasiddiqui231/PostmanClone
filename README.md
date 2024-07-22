@@ -8,6 +8,18 @@ Postman Clone is a user-friendly application that allows users to interact with 
 - **HTTP Method Selection**: Support for GET, POST, PUT, DELETE, and PATCH methods.
 - **Formatted JSON Response**: Response is displayed in a readable, formatted JSON format.
 
+## Images
+
+![workingProject](get.png)
+
+![workingProject](put.png)
+
+![workingProject](post.png)
+
+![workingProject](delete.png)
+
+![workingProject](patch.png)
+
 ## Technologies Used
 
 - C#
